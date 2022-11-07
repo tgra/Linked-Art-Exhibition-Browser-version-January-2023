@@ -1,0 +1,24 @@
+.card {
+
+    background-color: whitesmoke;
+   
+        margin-bottom: 10px;
+       
+}
+
+.btn_right {
+
+    text-align: right;
+
+}
+
+.nav, .navitem, .tab-content, .tab-pane {
+
+    background-color:whitesmoke;
+}
+
+
+
+td.date {
+    white-space: nowrap;
+}
